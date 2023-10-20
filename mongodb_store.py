@@ -6,7 +6,7 @@ class MongoDBStore:
         self.scheme = "mongodb"
         self.username = "admin"
         self.password = "admin"
-        self.host = "192.168.13.166"
+        self.host = "localhost"
         self.port = 27017
         self.database = None
         self.collection = None
