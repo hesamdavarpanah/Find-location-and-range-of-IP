@@ -1,6 +1,7 @@
 # Find Location and Range of IP
 
 This repository contains a simple Python script that allows users to find the location and range of an IP address. This can be useful for various purposes such as tracking the location of a website visitor or identifying potential security threats.
+![Find location and range of IP graph](./IP2Location.png)
 
 ## How to Use
 
@@ -24,5 +25,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to contribute to this project by creating pull requests or reporting any issues you encounter.
 
 Thank you for using our script!
-
-![Find location and range of IP graph](./IP2Location.png)
