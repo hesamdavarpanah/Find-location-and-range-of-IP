@@ -7,7 +7,8 @@ This repository contains a simple Python script that allows users to find the lo
 1. Clone this repository to your local machine.
 2. Make sure you have Python installed.
 3. Install the required packages by running `pip install -r requirements.txt` in your terminal.
-4. Run the script by typing `python main.py` in your terminal.
+4. Create a files directory and put the [IP2LOCATION-LITE-ASN.CSV](https://lite.ip2location.com/database-asn?lang=en_US) on this.
+5. Run the script by typing `python main.py` in your terminal.
 6. The script will output the location and range of the given IP address on MongoDB.
 
 ## Technologies Used
